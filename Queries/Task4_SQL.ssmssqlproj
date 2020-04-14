@@ -20,38 +20,38 @@
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
         <FileNode Name="ALTER.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-S01858F:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-S01858F</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>ALTER.sql</FullPath>
         </FileNode>
         <FileNode Name="CREATE.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-S01858F:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-S01858F</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>CREATE.sql</FullPath>
         </FileNode>
         <FileNode Name="DELETE.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-S01858F:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-S01858F</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>DELETE.sql</FullPath>
         </FileNode>
         <FileNode Name="INSERT.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-S01858F:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-S01858F</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>INSERT.sql</FullPath>
         </FileNode>
         <FileNode Name="SELECT.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-S01858F:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-S01858F</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>SELECT.sql</FullPath>
         </FileNode>
         <FileNode Name="UPDATE.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-S01858F:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-S01858F</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>UPDATE.sql</FullPath>
         </FileNode>
